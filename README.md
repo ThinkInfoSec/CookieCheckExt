@@ -1,13 +1,13 @@
-# CookieCutter
+# Cookie Check!
 
-## Privacy Policy for Cookie Cutter - Security Checks
+## Privacy Policy for Cookie Check!
 
 Last Updated: March 3rd, 2025
 
-Privacy Policy for Cookie Cutter - Security Checks
+Privacy Policy for Cookie Check!
 
 1. Introduction
-This Privacy Policy explains how the "Cookie Cutter - Security Checks" extension ("Extension") collects, uses, and protects your information. By installing and using the Extension, you agree to the practices described in this Privacy Policy.
+This Privacy Policy explains how the "Cookie Check!" extension ("Extension") collects, uses, and protects your information. By installing and using the Extension, you agree to the practices described in this Privacy Policy.
 
 2. Information We Collect
 The Extension does not collect, store, or transmit any personal or sensitive data. Specifically:
