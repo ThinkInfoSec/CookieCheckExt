@@ -1,6 +1,6 @@
-# Cookie Cutter - Risk Assignment Documentation
+# Cookie Check! - Risk Assignment Documentation
 
-This document explains how Cookie Cutter – Security Checks assigns a risk score to each cookie. The score is based on several security attributes, and the total raw risk is scaled to a gauge from 0 (indicating minimal risk) to 10 (indicating a critical level of risk).
+This document explains how Cookie Check! assigns a risk score to each cookie. The score is based on several security attributes, and the total raw risk is scaled to a gauge from 0 (indicating minimal risk) to 10 (indicating a critical level of risk).
 
 ## Risk Factors and Their Values
 
